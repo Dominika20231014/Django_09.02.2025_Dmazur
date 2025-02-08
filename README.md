@@ -1,6 +1,7 @@
 # Django_09.02.2025_Dmazur
 PROJEKT ZALICZENIOWY_Python Dev_Podstawy budowy aplikacji internetowych Django
 "rezerwacja samochodu z wypożyczalni"
+(Pycharm - Visual Studio Code) 
 
 Opis
 Projekt polega na stworzeniu aplikacji webowej typu full-stack przy użyciu frameworku Django, korzystającej z relacyjnej bazy danych (SQLite lub PostgreSQL). 
@@ -27,6 +28,11 @@ Użycie
 - Przeglądaj swoje historie swoich rezerwacji.
 - Dokonaj rezerwacji.
 - wróć do strony z wyboream auta lub wyloguj się.
+  (trzeba się wylogować inaczej nie można się zalogować jako inny uzytkownik)
+TEST(na uzytkowniku):
+  login: BabciaJanina
+  hasło: Janina1!
+  
 
 administrator - zaloguj sie 
   login dominika 
